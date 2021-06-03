@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ua.knu.montag.modpow.BinModPowTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-03T11:59:18" hostname="DESKTOP-UJ4LBV0" time="0.008">
+  <properties/>
+  <testcase name="binPow" classname="ua.knu.montag.modpow.BinModPowTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
